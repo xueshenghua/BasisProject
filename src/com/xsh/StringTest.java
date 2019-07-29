@@ -15,5 +15,7 @@ public class StringTest {
         }
         System.out.println();
         System.out.println("测试Git Test");
+
+        System.out.println("IDEA中Git测试还不熟练呀~~~");
     }
 }
