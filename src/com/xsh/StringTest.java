@@ -13,5 +13,7 @@ public class StringTest {
             //转为十六进制  \u4f60\u597d\u4e16\u754c
             System.out.print("\\u" +Integer.toHexString(info.charAt(i)));
         }
+        System.out.println();
+        System.out.println("测试Git Test");
     }
 }
